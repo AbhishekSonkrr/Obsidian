@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6df45b8c623d64",
+        "id": "7546e72da482e9ed",
         "type": "tabs",
         "children": [
           {
-            "id": "cba8210416005b9f",
+            "id": "53af8a7bd56fd232",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "clock",
+              "title": "Pomodoro"
             }
           }
         ]
@@ -177,18 +177,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "markdown-importer:Open format converter": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
       "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": true,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": true,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "cba8210416005b9f",
-  "lastOpenFiles": []
+  "active": "7e133b57bb9a034c",
+  "lastOpenFiles": [
+    "TaskNotes/Tasks/lkj.md",
+    "TaskNotes/Tasks",
+    "TaskNotes",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views"
+  ]
 }
