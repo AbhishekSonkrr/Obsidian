@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "p49dUmNqVCfz9DtoGu3wj",
+      "type": "text",
+      "x": 202.16080474853516,
+      "y": 177.330078125,
+      "width": 648.9991455078125,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1303493449,
+      "version": 227,
+      "versionNonce": 1075685242,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1768840656435,
+      "link": null,
+      "locked": false,
+      "text": "n warriors -> indexing 0 to (n-1)\nwarrior[0] -> divine secret\n2D ARRAY => sabhas[i]=[xi,yi,ti] -->> xi and yi meet at ti \nif warrior knows the secre\n",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "n warriors -> indexing 0 to (n-1)\nwarrior[0] -> divine secret\n2D ARRAY => sabhas[i]=[xi,yi,ti] -->> xi and yi meet at ti \nif warrior knows the secre\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

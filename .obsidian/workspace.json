@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7546e72da482e9ed",
+        "id": "6b0e6a8a571d29e5",
         "type": "tabs",
         "children": [
           {
-            "id": "53af8a7bd56fd232",
+            "id": "a7ae5121aea4288c",
             "type": "leaf",
             "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -168,7 +172,8 @@
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,29 +193,32 @@
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-importer:Open Importer": true,
       "tasknotes:Open mini calendar": false,
-      "tasknotes:Open advanced calendar": true,
+      "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
       "tasknotes:Open agenda": false,
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "terminal:Open terminal": false
+      "tasknotes:Create new task": false
     }
   },
-  "active": "7e133b57bb9a034c",
+  "active": "a7ae5121aea4288c",
   "lastOpenFiles": [
-    "TaskNotes/Tasks/lkj.md",
-    "TaskNotes/Tasks",
-    "TaskNotes",
+    "RESOURCES.md",
+    "Untitled.md",
+    "Algo.md",
+    "AlgoMaster.io - Master Software Engineering Interviews.md",
+    "AlgoMaster.io - Master Software Engineering Interviews 1.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views"
+    "TaskNotes/Views",
+    "TaskNotes/Tasks/lkj.md",
+    "TaskNotes/Tasks",
+    "TaskNotes"
   ]
 }
