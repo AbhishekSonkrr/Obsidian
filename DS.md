@@ -1,0 +1,77 @@
+---
+tags:
+  - DS
+---
+
+- [ ] ARRAY
+- [ ] <mark style="background: #FF5582A6;">POINTERS</mark>
+- [x] STRUCT
+- [x] LINKED LIST
+	- <span style="color:rgb(255, 192, 0)">insertion</span>: at beginning | middle | end 
+	- <span style="color:rgb(255, 192, 0)">deletion</span>: only one node | in | between | end 
+	- <span style="color:rgb(255, 192, 0)">traversing</span> 
+	- <span style="color:rgb(255, 192, 0)">searching</span> 
+	- <span style="color:rgb(255, 192, 0)">reversing</span> 
+	- doubly | circular linked list
+- [x] TREE
+	- root 
+	- nodes 
+		- parent | child | leaf 
+		- internal 
+		- ancestor 
+		- descendant 
+		- sibling
+	- degree {degree of tree}
+	- depth of node 
+	- height of node
+	- level of node
+	- <span style="color:rgb(255, 192, 0)">[[BT implementation|Binary Tree]]</span>
+		- Types of tree
+			- Full 
+			- Complete 
+			- Perfect  
+			- Degenerated
+		- max. & min. no. of nodes 
+		- <span style="color:rgb(255, 0, 0)">implementation</span>
+			- `code1.c`
+		- [[Tree traversal method]]
+			- preorder | postorder | inorder
+			- construction of BT from 
+				- preorder and inorder,
+				- postorder and inorder
+				- <mark style="background: #FF5582A6;">preorder and postorder</mark>
+		- <span style="color:rgb(255, 192, 0)">Binary Search Tree</span>
+			- logical representation
+			- <span style="color:rgb(255, 0, 0)">implementation</span>
+			- AVL tree
+				- logical representation
+				- <span style="color:rgb(255, 192, 0)">insertion</span>
+				- <span style="color:rgb(255, 192, 0)">deletion</span>
+				- <span style="color:rgb(255, 0, 0)">implementation</span>
+- [ ] stack
+	- operations
+		- push 
+		- pop
+		- peek
+		- isEmpty , isFull
+	- logical representation
+	- implementation
+		- using array
+		- <mark style="background: #FF5582A6;">using linked list</mark>
+	- applications
+		- <mark style="background: #FF5582A6;">infix , postfix, prefix</mark>
+- [ ] queue
+	- operations
+		- enqueue
+		- dequeue
+		- peek
+		- display
+	- implementation
+		- using singly linked list
+			- enqueue , dequeue
+			- display, peek
+		- using circular linked list
+			- enqueue , dequeue
+			- display, peek
+- <mark style="background: #FF5582A6;">sorting</mark> 
+	- 

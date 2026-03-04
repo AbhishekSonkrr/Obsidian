@@ -1,0 +1,8 @@
+- [x] what is xml 
+- [x] xml vs html
+- [x] xml declaration
+	- [x] syntax rule for xml declaration
+- [ ] tags and element
+	- [ ] syntax rule for tags and element
+		- [ ] element
+		- [ ] nesting of element

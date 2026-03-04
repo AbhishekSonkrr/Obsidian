@@ -1,0 +1,90 @@
+- [x] object
+	- An object is instance of class.
+	- It represents a specific entity created from the class template.
+- [x] class
+	- A class is a blueprint used to create object that share common properties and behavior.
+- [x] Encapsulation
+	- It is a process of wrapping data and function(method) together into a single class, and restricting direct access to data. 
+	- <span style="color:rgb(255, 192, 0)">Usage</span>: 
+		- To protect unauthorized access to data.
+		- To control modification of data.
+- [ ] <mark style="background: #FF5582A6;">Abstraction</mark>
+	- the process of hiding implementation details and showing only essential functionality to the user is know as abstraction.
+	- [x] abstraction classes
+		- A class that can't be instantiated and may contain abstract method as well as concrete methods.
+	- [ ] interface
+		- 
+	- [x] abstraction method
+		- It is a method inside abstract class or interface, can be declare using abstract keyword, but it does not have and implementation.
+- [x] Inheritance
+	- It is a mechanism in java where one class can acquire properties and methods of another class .
+- [x] <mark style="background: #FF5582A6;">Polymorphism</mark>
+	- One multiple methods have similar name but different parameter within  the class.
+	- [x] method overloading 
+		- compile time polymorphism: java allows to have multiple classes with same name but different parameters.
+	- [x] method overriding
+		- runtime time polymorphism: In java when a subclass provides its own implementation of a method , which is already defined in super class with same method signature.
+- [x] <mark style="background: #FF5582A6;">this keyword</mark>
+	- this keyword is an reference variable use to refer current object
+- [x] ways to define relationship among the classes
+	- HAS A : One class can contains the object of another class.
+	- IS A : Inheritance.
+- [x] <mark style="background: #ADCCFFA6;">features of java</mark>
+	- [x] architectural neutral
+	- [x] robust
+		- java supports : garbage collection, exception handling, runtime handling. 
+	- [x] secure
+		- java has access modifiers to check memory access and prevent from virus entering the applet
+		- program runs on VM sandbox so the actual hardware won't get affected by code.
+	- [x] distributed
+		- java provides dsitributed programming by using RME(remote method envocation) and EJB(enterprise javabeam)
+	- [x] high performance
+	- [x] multi-threaded and interface
+- [x] data type
+	- [x] primitive data type
+		- 1 bit : boolean, char
+		- 8 bytes: byte
+		- 16 bits : short
+		- 32 bits: int, float
+		- 64 bits: long, double
+	- [x] non primitive data type
+- [x] <mark style="background: #FF5582A6;">data compatibility and conversion</mark>
+	- [x] widening (automatic data type)
+		- assigning smaller data type to larger data type
+	- [x] narrowing or casting the assignment operator
+		- assigning larger data type to smaller data type using type casting.
+- [x] types of variable
+	- [x] instance variable
+		- non static variable that are declare outside any <span style="color:rgb(192, 0, 0)">method</span> , <span style="color:rgb(192, 0, 0)">constructor</span> or <span style="color:rgb(192, 0, 0)">block</span>,
+		- initialization of instance variable is not mandatory.
+	- [x] local variable
+		- non static variables that defined within blocks, methods or constructor.
+		- initialization of local variable is mandatory.
+	- [x] static variable
+		- static variables are available when class loaded and it can be accessed by method name or object name.
+		- these variable share among all instance of a class.
+- [ ] <mark style="background: #FF5582A6;">generic class</mark>
+	- a generic class is class with one or more type parameter.
+	- 
+- [ ] <mark style="background: #FF5582A6;">immutable object</mark>
+	- an object whose state cannot be change after the object is created.
+	- in java we use final keyword to create immutable object.
+	- example : String 
+- [ ] JDK
+- [ ] Component of java platform
+		- java langauge
+		- compiler
+		- JVM
+		- JRE
+		- JVM
+			- MEMORY AREAS used by JVM
+				- Method areas
+					- stores class level data
+				- Heap areas
+				- Stack areas
+				- PC Register
+				- Native Method Stack
+	- [ ] memory area used by JVM
+- [ ] StudentRecord
+- [ ] DigitalLock
+- [ ] Others
