@@ -2,76 +2,77 @@
 tags:
   - DS
 ---
-
+>[!Warning] Note:
+>code + algorithm + theory + logical diagram(if needed) 
 - [ ] ARRAY
-- [ ] <mark style="background: #FF5582A6;">POINTERS</mark>
-- [x] STRUCT
-- [x] LINKED LIST
-	- <span style="color:rgb(255, 192, 0)">insertion</span>: at beginning | middle | end 
-	- <span style="color:rgb(255, 192, 0)">deletion</span>: only one node | in | between | end 
-	- <span style="color:rgb(255, 192, 0)">traversing</span> 
-	- <span style="color:rgb(255, 192, 0)">searching</span> 
-	- <span style="color:rgb(255, 192, 0)">reversing</span> 
-	- doubly | circular linked list
-- [x] TREE
-	- root 
-	- nodes 
-		- parent | child | leaf 
-		- internal 
-		- ancestor 
-		- descendant 
-		- sibling
-	- degree {degree of tree}
-	- depth of node 
-	- height of node
-	- level of node
-	- <span style="color:rgb(255, 192, 0)">[[BT implementation|Binary Tree]]</span>
-		- Types of tree
-			- Full 
-			- Complete 
-			- Perfect  
-			- Degenerated
-		- max. & min. no. of nodes 
-		- <span style="color:rgb(255, 0, 0)">implementation</span>
-			- `code1.c`
-		- [[Tree traversal method]]
-			- preorder | postorder | inorder
-			- construction of BT from 
-				- preorder and inorder,
-				- postorder and inorder
-				- <mark style="background: #FF5582A6;">preorder and postorder</mark>
-		- <span style="color:rgb(255, 192, 0)">Binary Search Tree</span>
-			- logical representation
-			- <span style="color:rgb(255, 0, 0)">implementation</span>
-			- AVL tree
-				- logical representation
-				- <span style="color:rgb(255, 192, 0)">insertion</span>
-				- <span style="color:rgb(255, 192, 0)">deletion</span>
-				- <span style="color:rgb(255, 0, 0)">implementation</span>
-- [ ] stack
-	- operations
-		- push 
-		- pop
-		- peek
-		- isEmpty , isFull
-	- logical representation
-	- implementation
-		- using array
-		- <mark style="background: #FF5582A6;">using linked list</mark>
-	- applications
-		- <mark style="background: #FF5582A6;">infix , postfix, prefix</mark>
-- [ ] queue
-	- operations
-		- enqueue
-		- dequeue
-		- peek
-		- display
-	- implementation
-		- using singly linked list
-			- enqueue , dequeue
-			- display, peek
-		- using circular linked list
-			- enqueue , dequeue
-			- display, peek
-- <mark style="background: #FF5582A6;">sorting</mark> 
-	- 
+- [ ] POINTERS
+- [ ] STRUCT
+
+>## LINKED LIST
+> - [ ] <mark style="background: #0074FF6E;">insertion</mark>: at beginning , middle , end 
+> - [ ] <mark style="background: #0074FF6E;">deletion</mark>: only one node , in , between , end 
+> - [ ] <mark style="background: #0074FF6E;">traversing</mark> 
+> - [ ] <mark style="background: #0074FF6E;">searching</mark> 
+> - [ ] <mark style="background: #0074FF6E;">reversing</mark> 
+> - [ ] doubly linked list 
+> - [ ] circular linked list
+
+> ## TREE
+> - [x] root 
+> - [x] nodes 
+> 	- [x] parent , child , leaf , sibling 
+> 	- [x] internal , ancestor , descendant
+> - [ ] degree of nodes OR tree
+> - [/] depth , height , level of node
+> - [/] <mark style="background: #0074FF6E;">Binary Tree</mark>
+> 	- [/] Types of tree
+> 		- [/] Full 
+> 		- [/] Complete 
+> 		- [/] Perfect  
+> 		- [/] Degenerated
+> 	- [/] max. & min. no. of nodes 
+> 	- [/] [[DS/BT implementation|BT ]] <mark style="background: #FF5582A6;">implementation</mark>
+> 		- [/] `code1.c`
+> 	- [/] [[DS/Tree traversal method|Tree traversal method]]
+> 		- [x] preorder , postorder , inorder
+> 		- [x] construction of BT from 
+> 			- [x] preorder and inorder,
+> 			- [x] postorder and inorder
+> 			- [ ] preorder and postorder
+> 	- [/] <mark style="background: #0074FF6E;">Binary Search Tree</mark>
+> 		- [x] <mark style="background: #FF5582A6;">logical representation</mark>
+> 		- [/] BST <mark style="background: #FF5582A6;">implementation</mark>
+> 		- [x] AVL tree
+> 			- [x] <mark style="background: #FF5582A6;">logical representation</mark>
+> 			- [x] <mark style="background: #0074FF6E;">insertion</mark>
+> 			- [/] <mark style="background: #0074FF6E;">deletion</mark>
+> 			- [/] BST <mark style="background: #FF5582A6;">implementation</mark>
+
+> ## STACK
+> -  <mark style="background: #FF5582A6;">operations</mark>
+> 	- [x] push 
+> 	- [x] pop
+> 	- [x] peek
+> 	- [x] isEmpty , isFull
+> - [x] <mark style="background: #FF5582A6;"> logical representation</mark>
+> -  stack <mark style="background: #FF5582A6;">implementation</mark>
+> 	- [x] using array
+> 	- [ ] using linked list
+> -  applications
+> 	- [ ] <mark style="background: #0074FF6E;">infix</mark> , <mark style="background: #0074FF6E;">postfix</mark>, <mark style="background: #0074FF6E;">prefix</mark>
+
+> ### queue
+> -  <mark style="background: #FF5582A6;">operations</mark>
+> 	- [x] enqueue
+> 	- [ ] dequeue
+> 	- [x] peek
+> 	- [x] display
+> - [ ] queue <mark style="background: #FF5582A6;">implementation</mark>
+> 	- [ ] using singly linked list
+> 	- [ ] using circular linked list
+- sorting 
+	- selection sort
+	- bubble sort
+	- insertion sort
+	- radix sort
+	- quick sort

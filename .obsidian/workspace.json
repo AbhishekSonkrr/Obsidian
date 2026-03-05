@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6b0e6a8a571d29e5",
+        "id": "66448fb8187d8e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "a7ae5121aea4288c",
+            "id": "5c7b5e0767d64d0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": false
+                "file": "DS/DS.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "DS.excalidraw"
             }
           }
         ]
@@ -200,13 +198,24 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a7ae5121aea4288c",
+  "active": "5c7b5e0767d64d0a",
   "lastOpenFiles": [
-    "RESOURCES.md",
+    "Excalidraw/PLACEMENT.excalidraw.md",
+    "DS/Tree traversal method.md",
+    "Anhushka github.md",
+    "Coding Interview University.md",
+    "XML.md",
     "Untitled.md",
+    "PLACEMENT.md",
+    "OOPS.md",
+    "DS.md",
+    "CPI.md",
+    "r.excalidraw.md",
+    "RESOURCES.md",
     "Algo.md",
     "AlgoMaster.io - Master Software Engineering Interviews.md",
     "AlgoMaster.io - Master Software Engineering Interviews 1.md",
