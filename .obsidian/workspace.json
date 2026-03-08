@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66448fb8187d8e5e",
+        "id": "5d3aeb42a59bcf35",
         "type": "tabs",
         "children": [
           {
-            "id": "5c7b5e0767d64d0a",
+            "id": "7c8eb5c01f2df592",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DS/DS.excalidraw.md"
+                "file": "OOPS.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "DS.excalidraw"
+              "icon": "lucide-file",
+              "title": "OOPS"
             }
           }
         ]
@@ -202,18 +204,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c7b5e0767d64d0a",
+  "active": "7c8eb5c01f2df592",
   "lastOpenFiles": [
-    "Excalidraw/PLACEMENT.excalidraw.md",
-    "DS/Tree traversal method.md",
-    "Anhushka github.md",
-    "Coding Interview University.md",
-    "XML.md",
-    "Untitled.md",
-    "PLACEMENT.md",
-    "OOPS.md",
     "DS.md",
     "CPI.md",
+    "Daily template.md",
+    "Coding Interview University.md",
+    "Anhushka github.md",
+    "Untitled.md",
+    "DS/DS.excalidraw.md",
+    "Excalidraw/PLACEMENT.excalidraw.md",
+    "DS/Tree traversal method.md",
+    "XML.md",
+    "PLACEMENT.md",
+    "OOPS.md",
     "r.excalidraw.md",
     "RESOURCES.md",
     "Algo.md",
