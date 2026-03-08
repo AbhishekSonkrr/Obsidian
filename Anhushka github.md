@@ -216,14 +216,14 @@ of detail about your favorite programming language.
 >For examples of project you can check my other repositories [here](https://github.com/anushka23g?tab=repositories) , Will be adding more projects soon!
 > If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on [this](https://github.com/anushka23g/Learning-Made-Easy) project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. 
 
-:unicorn: You can also contribute to the project and help the community if you wish to!  
+🦄 You can also contribute to the project and help the community if you wish to!  
 
 
 
 
 # 🏆 SOME EXTRA TIPS:
 
-## :beginner: Coding Practice
+## 🔰 Coding Practice
 📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
 📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
 📒 [Hackerrank](https://www.hackerrank.com/)
@@ -243,4 +243,4 @@ DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https
 
  Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)***
  
- :heart: ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github***
+ ❤ ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github***
