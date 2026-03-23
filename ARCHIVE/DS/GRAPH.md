@@ -1,0 +1,29 @@
+- GRAPH
+	- ==COMPLETE GRAPH==
+	- ==ADJACENT AND INCIDENT==
+	- ==SUB-GRAPH AND PATH==
+	- ==SIMPLE PATH AND STYLE==
+	- ==CONNECTED GRAPH== 
+	- ==DEGREE== 
+	- ==ADT FOR GRAPH==
+	- ==GRAPH REPRESENTATION==
+		- adjacency matrix
+			- operations #code 
+			- compact representation
+		- adjacency lists
+			- DS for adjacency matrix #code 
+		- adjacency multi-lists
+	- ==SOME GRAPH OPERATIONS== #code
+		- ==TRAVERSAL==
+			- ==DFS==
+			- ==BFS==
+		- ==CONNECTED COMPONENTS==
+		- ==SPANNIG TREE==
+	- ==MINIMUM COST SPANNING TREE== 
+	- GREEDY STRATEGY #diagram #algorithm
+		- ==KRUSKAL'S IDEA==
+		- ==PRISM ALGO==
+		- SOLLIN'S ALGO
+	- ==SINGLE SOURCE ALL DESTINATIONS==
+	- ==ALL PATHS SHORTEST PATHS==
+	- TRANSITIVE CLOSURE

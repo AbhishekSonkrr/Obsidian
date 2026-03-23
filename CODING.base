@@ -1,0 +1,13 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("CODING")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    markers: number
+    indentProperties: true

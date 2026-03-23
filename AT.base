@@ -1,0 +1,14 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.folder == "ARCHIVE/AT"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
+    indentProperties: true
+    markers: number
