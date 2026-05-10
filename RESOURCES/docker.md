@@ -1,6 +1,8 @@
----
+﻿---
+link: ''
 tags:
-  - IMPORTANT
+  - resources
+checkbox: false
 ---
 
 linux@archlinux  ~  gpg --full-generate-key  
@@ -65,3 +67,6 @@ pub   ed25519 2026-03-13 [SC]
      6DB042609CF0884B6CA14E62708E3F663776BAC5  
 uid                      Abhishek <1289185k@gmail.com>  
 sub   cv25519 2026-03-13 [E]
+
+
+

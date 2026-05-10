@@ -1,3 +1,10 @@
+﻿---
+link: 'https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-download-raw.jpg'
+tags:
+  - downloaded
+checkbox: false
+---
+
 /*
 ## requires Excalidraw 1.5.1 or higher
 ![](https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-download-raw.jpg)
@@ -18,10 +25,14 @@ elements.forEach((el)=>{
   ea.style.strokeColor = el.strokeColor;
   ea.style.fontFamily  = el.fontFamily;
   ea.style.fontSize    = el.fontSize;
-  const text = el.rawText.split("\n");
+  const text = el.rawText.split("
+");
   for(i=0;i<text.length;i++) {
 	ea.addText(el.x,el.y+i*el.height/text.length,text[i].trim());
   }
 });
 await ea.addElementsToView(false,false,true);
 ea.deleteViewElements(elements);
+
+
+

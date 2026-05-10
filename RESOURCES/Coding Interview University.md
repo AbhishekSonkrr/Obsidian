@@ -1,3 +1,9 @@
+﻿---
+link: 'https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13'
+tags:
+  - resources
+checkbox: false
+---
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -2018,3 +2024,6 @@ Sit back and enjoy.
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+
+
+

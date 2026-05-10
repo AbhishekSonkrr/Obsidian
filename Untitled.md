@@ -1,5 +1,8 @@
----
-date created: Sunday, May 10th 2026,
+﻿---
+link: 'https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/'
+tags:
+  - obsidian
+checkbox: false
 ---
 
 |   |   |   |   |   |   |   |
@@ -410,3 +413,6 @@ date created: Sunday, May 10th 2026,
 |Segment Trees||[Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|||||
 |Segment Trees||[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|||||
 |Segment Trees||[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|||||
+
+
+

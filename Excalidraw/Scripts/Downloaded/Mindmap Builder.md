@@ -1,3 +1,10 @@
+﻿---
+link: 'https://youtu.be/5G9QF-u9w0Q'
+tags:
+  - downloaded
+checkbox: false
+---
+
 /*
 
 # Mind Map Builder
@@ -1058,6 +1065,11 @@ zl4F+Zk6r4qtVAV/atuQNAU5mpU3M6sGoNuWfisaGChD2UTjB88SDRMFmuLLQwKFmQABU605nDzPhZ9b
 nk3yNZkTDI+Qg+LVmRmd2JpLcpBv6/O3ERtvJ7U1mRmfAxaVnY/mwLeeFMXQF5QIAorPrla8BMIbLTd7qV0qVC7knNyu/AvjrDWe66oJn36CqGpzBBuvDm4brgmcOGpzBOWcjZogA1BodW2bqhIH9qv1lA6pTRaAbt4Ksy2P4loABq+5ADAGBquRBQaodYiGrwWShq7XFdUZ7BiNnd+o26mrKtut18nbqPQD26lIavCFfe7grvADp6i/17hA56lN
 
 LcAtZ6+XUh2aZ6wKSGoYN21EglLuK1Sf1DsVcog1FPuqnupCAA2d5qiGKUWTUaj7rqvPu1ZlmueGwxWNM7GKbje3qpLMxZyIBKgR+Zo6rtHg2ZvcGxXVaZBSHxIf18obsbbJkhp0nnmft6gxq9GtN6gNmSadky5lizeu/ZvARnSYd6otmr+MLw9DMWYJGAdbr7xQNZ5tm8pTby9NKgAA`;
-const script = ea.decompressFromBase64(mmbSource.replaceAll("\n", "").trim())
+const script = ea.decompressFromBase64(mmbSource.replaceAll("
+", "").trim())
 const AsyncFunction = Object.getPrototypeOf(async () => {}).constructor;
 await new AsyncFunction("ea", "utils", "VERSION", script)(ea, utils, VERSION);
+
+
+
+

@@ -1,3 +1,10 @@
+﻿---
+link: 'https://www.linkedin.com/in/anushka-gupta23/'
+tags:
+  - resources
+checkbox: false
+---
+
 # Placement-Preparation- Complete Roadmap
 
 <h3>Schedule a Mock Interview/ Mentorship/ Coaching sessions 👨‍💻 here: </h3>
@@ -244,3 +251,6 @@ DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https
  Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)***
  
  ❤ ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github***
+
+
+

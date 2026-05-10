@@ -1,3 +1,10 @@
+﻿---
+link: 'https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-change-shape.jpg'
+tags:
+  - downloaded
+checkbox: false
+---
+
 /*
 ![](https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-change-shape.jpg)
 
@@ -50,3 +57,7 @@ if (elements.length>0) {
 ea.copyViewElementsToEAforEditing(editedElements);
 
 ea.addElementsToView(false,false);
+
+
+
+

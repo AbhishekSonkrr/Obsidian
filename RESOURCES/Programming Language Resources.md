@@ -1,3 +1,10 @@
+﻿---
+link: 'https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628'
+tags:
+  - resources
+checkbox: false
+---
+
 - C
   - [ANSI C Cheat Sheet](<https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf>)
   - [K&R C book (ANSI C)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
@@ -108,3 +115,6 @@
 
 - Other Language 2
 - etc
+
+
+
