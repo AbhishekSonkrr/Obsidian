@@ -1,0 +1,266 @@
+---
+link: "[Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)"
+---
+- [x] [Lecture 1  : Flowchart & Pseudocode — 1h 25m](https://www.youtube.com/watch?v=VTLCoHnyACE)
+
+- [x] [Lecture 2  : Variables, Data Types & Operators — 1h 16m](https://www.youtube.com/watch?v=Dxu7GKtdbnA)
+
+- [x] [Lecture 3  : Conditional Statements & Loops — 1h 34m](https://www.youtube.com/watch?v=qR9U6bKxJ7g)
+
+- [x] [Lecture 4  : Patterns — 1h 31m](https://www.youtube.com/watch?v=rga_q2N7vU8)
+
+- [x] [Lecture 5  : Functions — 49m](https://www.youtube.com/watch?v=P08Z_NC8GuY)
+
+- [ ] [Lecture 6  : Binary Number System — 37m](https://www.youtube.com/watch?v=xpy5NXiBFvA)
+
+- [x] [Lecture 7  : Bitwise Operators — 38m](https://www.youtube.com/watch?v=r-u4uh3QvsQ)
+
+- [ ] [Lecture 8  : Arrays Part 1 — 54m](https://www.youtube.com/watch?v=8wmn7k1TTcI)
+
+- [ ] [Lecture 9  : Vectors in C++ — 40m](https://www.youtube.com/watch?v=NWg38xWYzEg)
+
+- [ ] [Lecture 10 : Kadane's Algorithm — 23m](https://www.youtube.com/watch?v=9IZYqostl2M)
+
+- [ ] [Lecture 11 : Majority Element — 39m](https://www.youtube.com/watch?v=_xqIp2rj8bo)
+
+- [ ] [Lecture 12 : Time & Space Complexity — 1h 25m](https://www.youtube.com/watch?v=PwKv8fOcriM)
+
+- [ ] [Lecture 13 : Buy & Sell Stock + Pow(x,n) — 29m](https://www.youtube.com/watch?v=WBzZCm46mFo)
+
+- [ ] [Lecture 14 : Container With Most Water — 32m](https://www.youtube.com/watch?v=EbkMABpP52U)
+
+- [ ] [Lecture 15 : Product of Array Except Self — 29m](https://www.youtube.com/watch?v=TW2m8m_FNJE)
+
+- [ ] [Lecture 16 : Pointers in C++ — 46m](https://www.youtube.com/watch?v=qYEjR6M0wSk)
+
+- [ ] [Lecture 17 : Binary Search Basics — 44m](https://www.youtube.com/watch?v=TbbSJrY5GqQ)
+
+- [ ] [Lecture 18 : Search in Rotated Sorted Array — 19m](https://www.youtube.com/watch?v=6WNZQBHWQJs)
+
+- [ ] [Lecture 19 : Peak Index in Mountain Array — 23m](https://www.youtube.com/watch?v=RjxD6UXGlhc)
+
+- [ ] [Lecture 20 : Single Element in Sorted Array — 27m](https://www.youtube.com/watch?v=qsbCBduIs40)
+
+- [ ] [Lecture 21 : Book Allocation — 32m](https://www.youtube.com/watch?v=JRAByolWqhw)
+
+- [ ] [Lecture 22 : Painter Partition — 27m](https://www.youtube.com/watch?v=srsFN5OHBgw)
+
+- [ ] [Lecture 23 : Aggressive Cows — 30m](https://www.youtube.com/watch?v=7wOzDqsfXy0)
+
+- [ ] [Lecture 24 : Bubble, Selection & Insertion Sort — 34m](https://www.youtube.com/watch?v=1jCFUv-Xlqo)
+
+- [ ] [Lecture 25 : DNF Sort — 33m](https://www.youtube.com/watch?v=J48aGjfjYTI)
+
+- [ ] [Lecture 26 : Next Permutation + Merge Sorted Arrays — 43m](https://www.youtube.com/watch?v=-1cLK6PaLsQ)
+
+- [ ] [Lecture 27 : STL Tutorial — 1h 27m](https://www.youtube.com/watch?v=okhdtEk1iKk)
+
+- [ ] [Lecture 28 : Mac Setup — 1m](https://www.youtube.com/watch?v=varXreLWPRo)
+
+- [ ] [Lecture 29 : Strings Basics — 30m](https://www.youtube.com/watch?v=MOSjYaVymcU)
+
+- [ ] [Lecture 30 : Valid Palindrome + Remove Occurrences — 24m](https://www.youtube.com/watch?v=dSRFgEs3a6A)
+
+- [ ] [Lecture 31 : Permutation in String — 21m](https://www.youtube.com/watch?v=VXewy91P0S4)
+
+- [ ] [Lecture 32 : Reverse Words in String — 14m](https://www.youtube.com/watch?v=RitppzIdMCo)
+
+- [ ] [Lecture 33 : String Compression — 19m](https://www.youtube.com/watch?v=cAB15h6-sWA)
+
+- [ ] [Lecture 34 : Maths for DSA — 55m](https://www.youtube.com/watch?v=Y4KdgqV1IqA)
+
+- [ ] [Lecture 35 : 2D Arrays in C++ | Part 1 | DSA Series by Shradha Ma'am](https://www.youtube.com/watch?v=lBL8327gq8I)
+
+- [ ] [Lecture 36 : Search in 2D Matrix — 37m](https://www.youtube.com/watch?v=LEFFjgt5i6w)
+
+- [ ] [Lecture 37 : Spiral Matrix | 2D Arrays - Part 3 | Leetcode 54 | DSA Series by Shradha Ma'am](https://www.youtube.com/watch?v=XMpdvwUObho)
+
+- [ ] [Lecture 38 : Two Sum — 53m](https://www.youtube.com/watch?v=0Fxc_jKj2vo)
+
+- [ ] [Lecture 39 : 3 Sum — 43m](https://www.youtube.com/watch?v=K-RsltkN63w)
+
+- [ ] [Lecture 40 : 4 Sum — 23m](https://www.youtube.com/watch?v=X6sL8JTROLY)
+
+- [ ] [Lecture 41 : Subarray Sum Equals K — 34m](https://www.youtube.com/watch?v=KDH4mhFVvHw)
+
+- [ ] [Lecture 42 : Recursion Basics — 46m](https://www.youtube.com/watch?v=9OsMG4fI4OY)
+
+- [ ] [Lecture 43 : Fibonacci + Recursive Binary Search — 41m](https://www.youtube.com/watch?v=4iT-GhvSKzc)
+
+- [ ] [Lecture 44 : Backtracking Basics — 42m](https://www.youtube.com/watch?v=pNzljlzDCiI)
+
+- [ ] [Lecture 45 : Permutations — 22m](https://www.youtube.com/watch?v=N4gJDGdhpLw)
+
+- [ ] [Lecture 46 : N Queens — 24m](https://www.youtube.com/watch?v=BdSJnIdR-4s)
+
+- [ ] [Lecture 47 : Sudoku Solver — 26m](https://www.youtube.com/watch?v=70cP3qtJp-s)
+
+- [ ] [Lecture 48 : Rat in Maze — 32m](https://www.youtube.com/watch?v=D8Yze9CDDAw)
+
+- [ ] [Lecture 49 : Combination Sum — 23m](https://www.youtube.com/watch?v=jkgZw2WEaqA)
+
+- [ ] [Lecture 50 : Palindrome Partitioning — 20m](https://www.youtube.com/watch?v=aZ0B1eWkSVU)
+
+- [ ] [Lecture 51 : Merge Sort — 32m](https://www.youtube.com/watch?v=cQDtOBTy7_Y)
+
+- [ ] [Lecture 52 : Playlist Update Video — 3m](https://www.youtube.com/watch?v=SBQfXK7q5K4)
+
+- [ ] [Lecture 53 : Quick Sort — 26m](https://www.youtube.com/watch?v=8MNB0Mba_Dc)
+
+- [ ] [Lecture 54 : Count Inversions — 24m](https://www.youtube.com/watch?v=ynnWDBTdVi0)
+
+- [ ] [Lecture 55 : Knight Tour Problem — 22m](https://www.youtube.com/watch?v=Sp1jzttFVdE)
+
+- [ ] [Lecture 56 : OOPs Tutorial — 2h 04m](https://www.youtube.com/watch?v=mlIUKyZIUUU)
+
+- [ ] [Lecture 57 : Introduction to Linked List — 50m](https://www.youtube.com/watch?v=LyuuqCVkP5I)
+
+- [ ] [Lecture 58 : Reverse Linked List — 10m](https://www.youtube.com/watch?v=R-CKBYnOv1U)
+
+- [ ] [Lecture 59 : Middle of Linked List — 10m](https://www.youtube.com/watch?v=nzaHG0dme4g)
+
+- [ ] [Lecture 60 : Detect & Remove Cycle — 30m](https://www.youtube.com/watch?v=-1E8ZMS0gSs)
+
+- [ ] [Lecture 61 : Merge Two Sorted Lists — 12m](https://www.youtube.com/watch?v=f8RPIb-0DDE)
+
+- [ ] [Lecture 62 : Copy List with Random Pointer — 20m](https://www.youtube.com/watch?v=8ze7Zopdsaw)
+
+- [ ] [Lecture 63 : Doubly Linked List — 32m](https://www.youtube.com/watch?v=bO5DasTsaRQ)
+
+- [ ] [Lecture 64 : Circular Linked List — 33m](https://www.youtube.com/watch?v=e6lZY5Yha8U)
+
+- [ ] [Lecture 65 : Flatten Doubly Linked List — 24m](https://www.youtube.com/watch?v=I8b0rff5F9M)
+
+- [ ] [Lecture 66 : Reverse Nodes in K Group — 20m](https://www.youtube.com/watch?v=-swgIiMIlJo)
+
+- [ ] [Lecture 67 : Swap Nodes in Pairs — 20m](https://www.youtube.com/watch?v=wwbTMNVlFHQ)
+
+- [ ] [Lecture 68 : Stack Introduction — 22m](https://www.youtube.com/watch?v=0X-fV-1ir9c)
+
+- [ ] [Lecture 69 : Valid Parentheses — 16m](https://www.youtube.com/watch?v=NlHupEeDXzY)
+
+- [ ] [Lecture 70 : Stock Span Problem — 26m](https://www.youtube.com/watch?v=01vBuZyMfqk)
+
+- [ ] [Lecture 71 : Next Greater Element — 23m](https://www.youtube.com/watch?v=NKbExYwvjb0)
+
+- [ ] [Lecture 72 : Previous Smaller Element — 9m](https://www.youtube.com/watch?v=WnjUfBn9nZM)
+
+- [ ] [Lecture 73 : Min Stack — 24m](https://www.youtube.com/watch?v=wHDm-N2m2XY)
+
+- [ ] [Lecture 74 : Largest Rectangle Histogram — 32m](https://www.youtube.com/watch?v=ysy1o-QEj3k)
+
+- [ ] [Lecture 75 : Next Greater Element II — 20m](https://www.youtube.com/watch?v=If--3pm9K3U)
+
+- [ ] [Lecture 76 : Trapping Rainwater — 30m](https://www.youtube.com/watch?v=UHHp8USwx4M)
+
+- [ ] [Lecture 77 : Celebrity Problem — 15m](https://www.youtube.com/watch?v=OZPmEA_8FM8)
+
+- [ ] [Lecture 78 : LRU Cache — 35m](https://www.youtube.com/watch?v=GsY6y0iPaHw)
+
+- [ ] [Lecture 79 : Queue Introduction — 18m](https://www.youtube.com/watch?v=Khf9v67Ya30)
+
+- [ ] [Lecture 80 : Circular Queue — 18m](https://www.youtube.com/watch?v=4mKKolshFD0)
+
+- [ ] [Lecture 81 : Queue using Stack — 15m](https://www.youtube.com/watch?v=sFvP5Ois0CE)
+
+- [ ] [Lecture 82 : First Unique Character — 13m](https://www.youtube.com/watch?v=sqyCBvEQN9c)
+
+- [ ] [Lecture 83 : Sliding Window Maximum — 31m](https://www.youtube.com/watch?v=XwG5cozqfaM)
+
+- [ ] [Lecture 84 : Gas Station — 22m](https://www.youtube.com/watch?v=SmTow5Ht4iU)
+
+- [ ] [Lecture 85 : Binary Trees Basics — 1h 14m](https://www.youtube.com/watch?v=eKJrXBCRuNQ)
+
+- [ ] [Lecture 86 : Height of Binary Tree — 23m](https://www.youtube.com/watch?v=7tzHzN_Ehus)
+
+- [ ] [Lecture 87 : Identical Tree — 23m](https://www.youtube.com/watch?v=tumW7jsjv68)
+
+- [ ] [Lecture 88 : Diameter of Binary Tree — 19m](https://www.youtube.com/watch?v=aPyDPImR5UM)
+
+- [ ] [Lecture 89 : Top View — 19m](https://www.youtube.com/watch?v=FGr-syrhvOA)
+
+- [ ] [Lecture 90 : Kth Level — 7m](https://www.youtube.com/watch?v=ze4JO_ODl3w)
+
+- [ ] [Lecture 91 : Lowest Common Ancestor — 18m](https://www.youtube.com/watch?v=oX5D0uKOMck)
+
+- [ ] [Lecture 92 : Build Tree from Traversals — 20m](https://www.youtube.com/watch?v=33b1M980cCA)
+
+- [ ] [Lecture 93 : Transform to Sum Tree — 8m](https://www.youtube.com/watch?v=TY6kEejJEM0)
+
+- [ ] [Lecture 94 : Binary Tree Paths — 10m](https://www.youtube.com/watch?v=AWJD__CfM6A)
+
+- [ ] [Lecture 95 : Maximum Width — 21m](https://www.youtube.com/watch?v=rhz-csskg_A)
+
+- [ ] [Lecture 96 : Morris Traversal — 17m](https://www.youtube.com/watch?v=PUfADhkq1LI)
+
+- [ ] [Lecture 97 : Flatten Binary Tree — 15m](https://www.youtube.com/watch?v=dU2Z5HWSGM0)
+
+- [ ] [Lecture 98  : BST Introduction — 43m](https://www.youtube.com/watch?v=RuF7dPfj27Q)
+
+- [ ] [Lecture 99  : Sorted Array to BST — 8m](https://www.youtube.com/watch?v=0s6sCjs_4g0)
+
+- [ ] [Lecture 100 : Validate BST — 12m](https://www.youtube.com/watch?v=dSBcCynP1nA)
+
+- [ ] [Lecture 101 : Minimum Distance in BST — 14m](https://www.youtube.com/watch?v=WZmjRXF_Zi4)
+
+- [ ] [Lecture 102 : Kth Smallest in BST — 12m](https://www.youtube.com/watch?v=Kq4BbvIhj44)
+
+- [ ] [Lecture 103 : LCA in BST — 12m](https://www.youtube.com/watch?v=ORxkZ12FrU4)
+
+- [ ] [Lecture 104 : Construct BST from Preorder — 19m](https://www.youtube.com/watch?v=-n5Ur1wE5Jc)
+
+- [ ] [Lecture 105 : Merge BSTs — 16m](https://www.youtube.com/watch?v=AiKZjCuy2k4)
+
+- [ ] [Lecture 106 : Recover BST — 24m](https://www.youtube.com/watch?v=0KGzfij_SCk)
+
+- [ ] [Lecture 107 : Largest BST — 24m](https://www.youtube.com/watch?v=Pr-HFxp7npk)
+
+- [ ] [Lecture 108 : Populate Next Right Pointer — 11m](https://www.youtube.com/watch?v=a8VKpW1DsD8)
+
+- [ ] [Lecture 109 : BST Iterator — 17m](https://www.youtube.com/watch?v=dS1bKglre3A)
+
+- [ ] [Lecture 110 : Inorder Predecessor & Successor — 19m](https://www.youtube.com/watch?v=IHNkql1tAnk)
+
+- [ ] [Lecture 111 : Graph Introduction — 26m](https://www.youtube.com/watch?v=RpgyCJBbl5E)
+
+- [ ] [Lecture 112 : BFS Traversal — 18m](https://www.youtube.com/watch?v=scQITTLgFJo)
+
+- [ ] [Lecture 113 : DFS Traversal — 14m](https://www.youtube.com/watch?v=3czYbhac160)
+
+- [ ] [Lecture 114 : Cycle Detection using DFS — 19m](https://www.youtube.com/watch?v=OZClCpPQDR4)
+
+- [ ] [Lecture 115 : Cycle Detection using BFS — 18m](https://www.youtube.com/watch?v=MIjOkApZ39g)
+
+- [ ] [Lecture 116 : Number of Islands — 17m](https://www.youtube.com/watch?v=AME6baBpswY)
+
+- [ ] [Lecture 117 : Rotting Oranges — 26m](https://www.youtube.com/watch?v=RmXo5SWkhCs)
+
+- [ ] [Lecture 118 : Directed Cycle Detection — 15m](https://www.youtube.com/watch?v=AcppN5XFt24)
+
+- [ ] [Lecture 119 : Topological Sort — 15m](https://www.youtube.com/watch?v=0WIINUY12Yg)
+
+- [ ] [Lecture 120 : Course Schedule I — 17m](https://www.youtube.com/watch?v=37cJ38HadM4)
+
+- [ ] [Lecture 121 : Course Schedule II — 19m](https://www.youtube.com/watch?v=rZsgWxodGmM)
+
+- [ ] [Lecture 122 : Flood Fill — 15m](https://www.youtube.com/watch?v=JI_e2RzARbM)
+
+- [ ] [Lecture 123 : Kahn's Algorithm — 18m](https://www.youtube.com/watch?v=BnQpaTZg6Sc)
+
+- [ ] [Lecture 124 : Dijkstra Algorithm — 35m](https://www.youtube.com/watch?v=8gYBHjtjWBI)
+
+- [ ] [Lecture 125 : Bellman Ford Algorithm — 23m](https://www.youtube.com/watch?v=3rFHlbJ7qKc)
+
+- [ ] [Lecture 126 : DSA Update Video — 6m](https://www.youtube.com/watch?v=YlmU4gBgePA)
+
+- [ ] [Lecture 127 : Prim's Algorithm — 26m](https://www.youtube.com/watch?v=Sflh1z6cIMk)
+
+- [ ] [Lecture 128 : Disjoint Set Union — 34m](https://www.youtube.com/watch?v=nnrjWxWMo3E)
+
+- [ ] [Lecture 129 : Kruskal Algorithm — 29m](https://www.youtube.com/watch?v=inoM6jwj1CA)
+
+- [ ] [Lecture 130 : Number of Provinces — 12m](https://www.youtube.com/watch?v=J1yCPIP-K8s)
+
+- [ ] [Lecture 131 : Min Cost to Connect Points — 21m](https://www.youtube.com/watch?v=mEx8JJQJUs8)
+
+- [ ] [Lecture 132 : Cheapest Flights Within K Stops — 30m](https://www.youtube.com/watch?v=CLmykzpeCCs)

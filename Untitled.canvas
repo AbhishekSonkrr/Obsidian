@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"7749fb086eb953a4","x":-230,"y":-180,"width":250,"height":50,"color":"6","type":"text","text":"OT"},
+		{"id":"433204d1c5552373","x":20,"y":-80,"width":250,"height":60,"color":"6","type":"text","text":"interview"},
+		{"id":"0cec192cf89fdb1f","x":270,"y":20,"width":250,"height":60,"color":"4","type":"text","text":"selection"},
+		{"id":"772db9097237ed17","x":-91,"y":-347,"width":250,"height":60,"type":"text","text":"DSA based questions"},
+		{"id":"cc15b700b74569ba","x":270,"y":-347,"width":250,"height":60,"type":"text","text":"- development \n- communication skill"},
+		{"id":"92406df28a0f0571","x":-827,"y":-280,"width":187,"height":71,"color":"1","type":"text","text":"> [!danger] PROBLEMS"},
+		{"id":"c5666d55fe22de9f","x":-230,"y":-620,"width":250,"height":81,"type":"text","text":"- apna college \\[lectures]\n- apna college \\[sheet]"},
+		{"id":"31e80b968dd1ae21","x":-230,"y":-860,"width":250,"height":60,"type":"text","text":"striver sheet"},
+		{"id":"7318e0520d23081c","x":-800,"y":-197,"width":222,"height":67,"type":"text","text":"- TIME MANAGEMENT\n- PLANNING\n"},
+		{"id":"bc510b9e8c7d4329","x":-800,"y":-110,"width":250,"height":60,"type":"text","text":"- leetcode\n- codeforces"},
+		{"id":"1de0d02b4415a76d","x":-520,"y":-347,"width":200,"height":94,"color":"2","type":"text","text":"> [!attention] INTERNSHIP\n"}
+	],
+	"edges":[
+		{"id":"9c5f15462bee45d2","fromNode":"1de0d02b4415a76d","fromSide":"bottom","toNode":"7749fb086eb953a4","toSide":"left"},
+		{"id":"ba3e600226e7b298","fromNode":"7749fb086eb953a4","fromSide":"bottom","toNode":"433204d1c5552373","toSide":"left"},
+		{"id":"8beee977db67d201","fromNode":"433204d1c5552373","fromSide":"bottom","toNode":"0cec192cf89fdb1f","toSide":"left"},
+		{"id":"d98db05604b8e3dd","fromNode":"772db9097237ed17","fromSide":"bottom","toNode":"7749fb086eb953a4","toSide":"top"},
+		{"id":"d478686aa71cd569","fromNode":"cc15b700b74569ba","fromSide":"bottom","toNode":"433204d1c5552373","toSide":"top"},
+		{"id":"34d48a7384945155","fromNode":"92406df28a0f0571","fromSide":"left","toNode":"7318e0520d23081c","toSide":"left"},
+		{"id":"9c37707ab57099f6","fromNode":"c5666d55fe22de9f","fromSide":"bottom","toNode":"772db9097237ed17","toSide":"top"},
+		{"id":"2bb78cbebb6daab7","fromNode":"31e80b968dd1ae21","fromSide":"bottom","toNode":"c5666d55fe22de9f","toSide":"top"},
+		{"id":"77f0b0dfb7f828df","fromNode":"92406df28a0f0571","fromSide":"left","toNode":"bc510b9e8c7d4329","toSide":"left"}
+	]
+}

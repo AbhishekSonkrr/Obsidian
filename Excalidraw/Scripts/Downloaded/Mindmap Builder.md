@@ -1,8 +1,10 @@
 ﻿---
+
 link: 'https://youtu.be/5G9QF-u9w0Q'
 tags:
   - downloaded
 checkbox: false
+
 ---
 
 /*
@@ -17,15 +19,15 @@ checkbox: false
 The script balances **automation** (auto-layout, recursive grouping, and contrast-aware coloring) with **explicit flexibility** (node pinning and redirection logic), ensuring that the mind map stays organized even as it grows to hundreds of nodes. It leverages the Excalidraw Sidepanel API to provide a persistent control interface utilizing the Obsidian sidepanel, that can also be undocked into a floating modal.
 
 > [!Tip]
-> 🚀 Become a MindMap Builder Pro with the Official [MindMap Builder Course](https://www.visual-thinking-workshop.com/mindmap)!
+> 🚀 Become a MindMap Builder Pro with the Official MindMap Builder Course!
 
 > [!Info]
-> Mindmap Builder is Minified and compressed to reduce size and improve performance. You can find the source here: [Mindmap Builder.js](https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Mindmap%20Builder.js)
-> API documentation: [MindMapBuilderAPI.md](https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/docs/ea-script-docs/MindMapBuilderAPI.md)
+> Mindmap Builder is Minified and compressed to reduce size and improve performance. You can find the source here: Mindmap Builder.js
+> API documentation: MindMapBuilderAPI.md
 
 ## Show Your Love!
 
-💖 **If you love MindMap Builder** say thank you, and [Buy me a Coffee](https://ko-fi.com/zsolt) 🍵
+💖 **If you love MindMap Builder** say thank you, and Buy me a Coffee 🍵
 
 ## The Script
 
@@ -1069,6 +1071,10 @@ const script = ea.decompressFromBase64(mmbSource.replaceAll("
 ", "").trim())
 const AsyncFunction = Object.getPrototypeOf(async () => {}).constructor;
 await new AsyncFunction("ea", "utils", "VERSION", script)(ea, utils, VERSION);
+
+
+
+
 
 
 

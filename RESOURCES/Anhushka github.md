@@ -1,8 +1,10 @@
 ﻿---
+
 link: 'https://www.linkedin.com/in/anushka-gupta23/'
 tags:
   - resources
 checkbox: false
+
 ---
 
 # Placement-Preparation- Complete Roadmap
@@ -10,7 +12,7 @@ checkbox: false
 <h3>Schedule a Mock Interview/ Mentorship/ Coaching sessions 👨‍💻 here: </h3>
 
 
-anushkagupta20128@gmail.com or [LinkedIn](https://www.linkedin.com/in/anushka-gupta23/) 
+anushkagupta20128@gmail.com or LinkedIn 
 
 
 
@@ -33,8 +35,8 @@ Let me know,if you wish to add anything else to this content.
 ### 📮 The pdfs added above consist of the ***500 Most asked questions on DSA in FAANG interviews- topicwise*** 
 
 
-### THE PDF FILES CAN BE FOUND [HERE](pdfs)
-### THE MARKDOWN FILES CAN BE FOUND [HERE](md)
+### THE PDF FILES CAN BE FOUND HERE
+### THE MARKDOWN FILES CAN BE FOUND HERE
  
 or send me an email at anushkagupta20128@gmail.com
 # 🏆 What do I need to prepare for the interviews?
@@ -86,13 +88,13 @@ But if you have enough time, I'd suggest you to learn the most used languages du
 
         
   
-📙 Amazon: Java, Javascript, Ruby, Python, Perl [sources](https://www.quora.com/What-programming-languages-are-used-at-Amazon) 
+📙 Amazon: Java, Javascript, Ruby, Python, Perl sources 
 
-📙 Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. [sources](https://stackoverflow.com/questions/3690092/what-programming-language-does-facebook-use) 
+📙 Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. sources 
 
-:orange_book: Google: C/C++, Java, Python, Javascript, Go [sources](https://stackoverflow.com/questions/4773379/official-programming-languages-at-google) 
+:orange_book: Google: C/C++, Java, Python, Javascript, Go sources 
 
-:orange_book: Microsoft: C++, C#, Java, Python [sources](http://www.eweek.com/c/a/Application-Development/Top-10-Microsoft-Programming-Languages-704642/) 
+:orange_book: Microsoft: C++, C#, Java, Python sources 
 
 
 
@@ -115,8 +117,8 @@ Always talk through your solution, explain any trade-offs you are making between
 
  # 🏆  The sequence for studying Data Structures and Algorithms should be as follows: 
 
-1️⃣  [Arrays]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/ARRAYS.pdf") & [Matrix]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/MATRIX.pdf") \
-2️⃣  [String]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf") \
+1️⃣  Arrays & Matrix \
+2️⃣  String \
 3️⃣ Searching\
 4️⃣ Sorting\
 5️⃣ Hashing\
@@ -139,7 +141,7 @@ Always talk through your solution, explain any trade-offs you are making between
 
 
 
-Need Guidance on where to start? Connect with me for mentored sessions at anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)
+Need Guidance on where to start? Connect with me for mentored sessions at anushkagupta20128@gmail.com or ***LinkedIn
 
 # 🏆  Technical Preparation tips:
 
@@ -220,8 +222,8 @@ of detail about your favorite programming language.
 
 
 # 🏆 Projects:
->For examples of project you can check my other repositories [here](https://github.com/anushka23g?tab=repositories) , Will be adding more projects soon!
-> If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on [this](https://github.com/anushka23g/Learning-Made-Easy) project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. 
+>For examples of project you can check my other repositories here , Will be adding more projects soon!
+> If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on this project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. 
 
 🦄 You can also contribute to the project and help the community if you wish to!  
 
@@ -231,26 +233,30 @@ of detail about your favorite programming language.
 # 🏆 SOME EXTRA TIPS:
 
 ## 🔰 Coding Practice
-📒 [LeetCode](https://leetcode.com/)  (Go to Problems -> Algorithms)\
-📒 [GeeksForGeeks](https://practice.geeksforgeeks.org/explore/?page=1)\
-📒 [Hackerrank](https://www.hackerrank.com/)
+📒 LeetCode  (Go to Problems -> Algorithms)\
+📒 GeeksForGeeks\
+📒 Hackerrank
 
     
   
 ## :beginner: General Interview Prep
-📚 [GeeksforGeeks](https://www.geeksforgeeks.org/) \
-📚 [High Scalability](http://highscalability.squarespace.com/) \
-📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
-DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
+📚 GeeksforGeeks \
+📚 High Scalability \
+📚 Interview Puzzles
+DONT FORGET TO CHECKOUT my followup article more better preparation HERE - Has more tips and tricks on how I prepared!!
  
  
  ***Do star, fork and share the repo to show your support, it would help others too!***   
 
  
 
- Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)***
+ Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***LinkedIn***
  
  ❤ ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github***
+
+
+
+
 
 
 

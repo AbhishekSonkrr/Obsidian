@@ -1,8 +1,10 @@
 ﻿---
+
 link: 'https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-uniform-size.jpg'
 tags:
   - downloaded
 checkbox: false
+
 ---
 
 /*
@@ -57,6 +59,9 @@ ea.getElements().forEach(el=>{
 const ids = ea.getElements().map(el=>el.id);
 await ea.addElementsToView(false,true);
 ea.getExcalidrawAPI().updateContainerSize(ea.getViewElements().filter(el=>ids.contains(el.id)));
+
+
+
 
 
 

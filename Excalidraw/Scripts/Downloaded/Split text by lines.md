@@ -1,8 +1,10 @@
 ﻿---
+
 link: 'https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-download-raw.jpg'
 tags:
   - downloaded
 checkbox: false
+
 ---
 
 /*
@@ -33,6 +35,9 @@ elements.forEach((el)=>{
 });
 await ea.addElementsToView(false,false,true);
 ea.deleteViewElements(elements);
+
+
+
 
 
 

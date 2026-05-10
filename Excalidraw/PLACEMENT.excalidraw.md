@@ -1,8 +1,10 @@
 ﻿---
+
 link: ''
 tags:
   - excalidraw
 checkbox: false
+
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
@@ -181,6 +183,9 @@ oohbgrONX6H1Y30F9HgoH73yBIA3WworRlP2uGJLcMufyf4gCIlDIIAFfuATQMEC/7p+EtOtyAFBFpBC
 44A+fpNBv+2/o/6IE/QIQCMAyMGwC0gwfucq3wGQOAE9ggsERaaw+gJr5JogThe7BOZIORgIB8/tzCWy+AKECRE4AZAHQB+csxDR+jgMwBb+JSEzA/gIiNkB0MyVnxA124QF6TyIVYEAA===
 ```
 %%
+
+
+
 
 
 

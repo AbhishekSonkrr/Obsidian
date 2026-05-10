@@ -88,12 +88,17 @@ foreach ($f in $files) {
         if ($mLinkMd.Success) { $linkVal = $mLinkMd.Groups[1].Value }
     }
 
-    # build new, minimal frontmatter: link, tags, checkbox
+    # compute alias from filename (lowercase_with_underscores)
+    $basename = [System.IO.Path]::GetFileNameWithoutExtension($f.Name)
+    $alias = Normalize-Tag $basename
+
+    # build new, minimal frontmatter: link, tags, alias, checkbox
     $sb = New-Object System.Text.StringBuilder
     $sb.AppendLine('---') | Out-Null
     $sb.AppendLine(("link: '{0}'" -f ($linkVal -replace "'","''"))) | Out-Null
     $sb.AppendLine('tags:') | Out-Null
     foreach ($t in $normTags) { $sb.AppendLine(("  - {0}" -f $t)) | Out-Null }
+    $sb.AppendLine(("alias: '{0}'" -f ($alias -replace "'","''"))) | Out-Null
     $sb.AppendLine('checkbox: false') | Out-Null
     $sb.AppendLine('---') | Out-Null
     $sb.AppendLine('') | Out-Null

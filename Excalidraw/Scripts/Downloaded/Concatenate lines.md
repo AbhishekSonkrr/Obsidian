@@ -1,8 +1,10 @@
 ﻿---
+
 link: 'https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-concatenate-lines.png'
 tags:
   - downloaded
 checkbox: false
+
 ---
 
 /*
@@ -163,6 +165,9 @@ switch (lineTypes) {
 
 
 await ea.addElementsToView();
+
+
+
 
 
 
