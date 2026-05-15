@@ -1,4 +1,4 @@
-﻿---
+---
 
 link: 'https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-box-elements.jpg'
 tags:
